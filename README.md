@@ -56,7 +56,7 @@ Multiple Jupyter notebooks document training logs and evaluations using differen
 ### 📈 Comparative Analysis Chart
 
 ![Driver Drowsiness Detection Optimizer's Results](https://github.com/boopal2003/Driver-Drowsiness-detection-using-Deep-Learning/blob/main/Screenshot%202025-04-13%20174912.png)
-![Driver Drowsiness Detection Learning Rate Results](
+![Driver Drowsiness Detection Learning Rate Results](https://github.com/boopal2003/Driver-Drowsiness-detection-using-Deep-Learning/blob/main/Screenshot%202025-04-13%20180315.png)
 
 ![Results](https://github.com/boopal2003/Driver-Drowsiness-detection-using-Deep-Learning/blob/main/Screenshot%202025-04-13%20174842.png)
 
