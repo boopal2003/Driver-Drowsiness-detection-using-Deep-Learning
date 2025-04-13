@@ -78,7 +78,7 @@ Multiple Jupyter notebooks document training logs and evaluations using differen
 
 Due to GitHub's file size restrictions, the trained `.h5` model files are hosted externally:
 
-📁 [**Access Model Files on Google Drive**]([https://drive.google.com/your-shared-folder-link](https://drive.google.com/drive/folders/1Umijm-L6V13PSQzLcCS1zyg6rvLyfT3o?usp=sharing))  
+📁 [**Access Model Files on Google Drive**](https://drive.google.com/drive/folders/1Umijm-L6V13PSQzLcCS1zyg6rvLyfT3o?usp=sharing) 
 
 
 ---
