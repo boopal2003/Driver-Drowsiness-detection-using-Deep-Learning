@@ -53,6 +53,14 @@ Multiple Jupyter notebooks document training logs and evaluations using differen
 - Higher learning rates led to faster convergence but risked overfitting
 - RMSProp and Nadam provided more stable and reliable training outcomes
 
+### 📈 Comparative Analysis Chart
+
+![Driver Drowsiness Detection Results]([relative/path/to/your/image.png](https://drive.google.com/file/d/1ObK7iMC-c3dqzREaSlE2J741EeB-sO2X/view?usp=sharing))
+
+
+![Results]([assets/results_chart.png](https://drive.google.com/file/d/1PYO3g_aSPygEq7QswHd88LVp6KfvW9_-/view?usp=sharing))
+
+
 ---
 
 ## Tech Stack
@@ -70,17 +78,11 @@ Multiple Jupyter notebooks document training logs and evaluations using differen
 
 Due to GitHub's file size restrictions, the trained `.h5` model files are hosted externally:
 
-📁 [**Access Model Files on Google Drive**](https://drive.google.com/your-shared-folder-link)  
+📁 [**Access Model Files on Google Drive**]([https://drive.google.com/your-shared-folder-link](https://drive.google.com/drive/folders/1Umijm-L6V13PSQzLcCS1zyg6rvLyfT3o?usp=sharing))  
 > _(Please update this link with your actual Google Drive folder URL)_
 
 ---
 
-## Presentation
-
-Project details, methodology, and results are summarized in the PowerPoint presentation:  
-📂 `DL_ENDSEM_21110,21135.pptx` (included in this repository)
-
----
 
 ## Contact
 
