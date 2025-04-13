@@ -58,7 +58,7 @@ Multiple Jupyter notebooks document training logs and evaluations using differen
 ![Driver Drowsiness Detection Results]([relative/path/to/your/image.png](https://drive.google.com/file/d/1ObK7iMC-c3dqzREaSlE2J741EeB-sO2X/view?usp=sharing))
 
 
-![Results]("C:\Users\boopa\Pictures\Screenshots\Screenshot 2025-04-13 174842.png")
+![Results](https://github.com/boopal2003/Driver-Drowsiness-detection-using-Deep-Learning/blob/main/Screenshot%202025-04-13%20174842.png)
 
 
 ---
